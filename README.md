@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edouard de Romrée</h1>
 <h3 align="center">Student at BeCode🌟.</h3>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development 
 
 - 📫 How to reach me **deromree.edouard@gmail.com**
 
